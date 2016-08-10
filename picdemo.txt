@@ -1,0 +1,5 @@
+﻿QTotal=2&
+&QFont=標楷體&
+&Q1S=@Pic.JPG/@Pic2.JPG/@Pic3.JPG&
+&Q2S=@Demo_1.JPG/@Demo_2.JPG/@Demo_3.JPG/@Demo_4.JPG/@Demo_5.JPG&
+&okflag=1

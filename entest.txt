@@ -1,0 +1,8 @@
+﻿QTotal=5&
+&QFont=Comic Sans MS&
+&Q1S=We/are/the/world.&
+&Q2S=Michael/has/a garden/in/his/house.&
+&Q3S=Everybody/wants/to/rule/the/world.&
+&Q4S=Do/they/know/its/Christmas time/at all?&
+&Q5S=j/t/g/p/q/x/y/z/a/b&
+&okflag=1

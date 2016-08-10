@@ -1,0 +1,9 @@
+﻿ModeFlag=0&
+&MenuTotal=3&
+&F1=chtest.txt&
+&N1=這是中文測試單元&
+&F2=entest.txt&
+&N2=這是英文測試單元&
+&F3=picdemo.txt&
+&N3=這是圖片測試單元&
+&okflag=1
